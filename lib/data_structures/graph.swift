@@ -10,4 +10,8 @@ class Graph {
   static func return_node(_ no: No?, _ cord: (Int, Int)) -> No? {
       return returnNode(no, cord)
   }
+
+  static func calc_distance(_ inicio: (Int, Int), _ fim: (Int, Int), _ no: No?) -> Int {
+      return calcDistance(inicio, fim, no)
+  }
 }
