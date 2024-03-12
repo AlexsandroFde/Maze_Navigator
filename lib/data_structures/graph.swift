@@ -3,4 +3,7 @@ class Graph {
       return addNode(matriz)
   }
 
+  static func order_graph(_ no: No?) {
+      orderGraph(no)
+  }
 }
