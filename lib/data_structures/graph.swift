@@ -6,4 +6,8 @@ class Graph {
   static func order_graph(_ no: No?) {
       orderGraph(no)
   }
+
+  static func return_node(_ no: No?, _ cord: (Int, Int)) -> No? {
+      return returnNode(no, cord)
+  }
 }
