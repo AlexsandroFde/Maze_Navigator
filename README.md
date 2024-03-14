@@ -1,6 +1,6 @@
 # Grafo e Cálculo de Distância
 
-Este é um projeto em Swift que permite carregar um grafo a partir de um arquivo e calcular a menor distância entre dois pontos no grafo.
+Este projeto em Swift foi desenvolvido para resolver o problema de encontrar o menor caminho entre duas coordenadas em uma matriz quadrada composta por 0s e 1s, onde os 0s representam espaços e os 1s representam paredes.
 
 ## Funcionalidades Principais
 
